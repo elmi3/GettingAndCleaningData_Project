@@ -3,7 +3,7 @@ This project demonstrates data cleaning and preparation of a dataset to produce 
 
 # Files and Repository
 - `run_analysis.R`: The main R script that performs data loading, cleaning, and transformation.
-- `tidy_data_set.txt`: The final tidy dataset produced by `run_analysis.R`.
+- `tidy_data_set.csv`: The final tidy dataset produced by `run_analysis.R`.
 - `CodeBook.md`: A codebook detailing the variables, data, and transformations applied.
 - `README.md`: This file, which provides an overview and instructions.
 
